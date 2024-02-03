@@ -1,6 +1,6 @@
 import os
 
-x = "ATGCGCC"
+x = "ATGCGCCTAATGTAGGTACGTTAGTCT"
 path="C:\\Users\\nafis\\PycharmProjects\\BioInformatics project"
 for i in range(len(x)):
     os.chdir(path)
